@@ -3,3 +3,4 @@ Nurhadi Resolusi
 - Membuat platform untuk pengelolaan video
 - Membuat form diskusi
 - Membuat aplikasi e-commerce
+- Membuat vlog
